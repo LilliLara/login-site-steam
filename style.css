@@ -4,6 +4,19 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
 
+@media screen and (min-width: 768px){
+
+    body{
+        
+    }
+
+
+    article{
+        display: block;
+    }
+}
+
+
 :root{
     --cor1: #FFFFFF;
     --cor2: #F0F0F0;
